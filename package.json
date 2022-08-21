@@ -1,5 +1,5 @@
 {
-    "name": "ger",
+    "name": "tedooo-ger",
     "description": "Good Enough Recommendations (GER) is a collaborative filtering based recommendations engine built to be easy to use and integrate into your application.",
     "url": "https://github.com/grahamjenson/ger.git",
     "keywords": [
@@ -15,7 +15,7 @@
     "dependencies": {
         "bluebird": "2.9.25",
         "coffee-script": "1.9.3",
-        "knex": "0.16.3",
+        "knex": "2.2.0",
         "lodash": "4.17.11",
         "moment": "2.19.3",
         "pg": "^7.6.1"
@@ -28,7 +28,7 @@
         "test": "mocha"
     },
     "main": "ger.js",
-    "version": "0.0.99",
+    "version": "1.0.0",
     "license": "MIT",
     "repository": {
         "type": "git",
